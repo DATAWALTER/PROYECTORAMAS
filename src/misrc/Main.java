@@ -71,11 +71,13 @@ public class Main {
     public static void opcion3() {
         System.out.print("\nOPCION 3");
         System.out.print("\n========");
+        System.out.println("Operación aritmética multiplicación");
     }
 
     public static void opcion4() {
         System.out.print("\nOPCION 4");
         System.out.print("\n========");
+         System.out.println("Operación aritmética división");
     }
 
     public static void cls() {
