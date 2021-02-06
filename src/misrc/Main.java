@@ -9,6 +9,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         char opcion;
         do {
+            
             cls();
             System.out.print("\nMENU");
             System.out.print("\n====");
