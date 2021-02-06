@@ -1,5 +1,9 @@
 package misrc;
 
+/*
+Autor: Ing. Walter Ismael Sagástegui Lescano
+*/
+
 import java.io.IOException;
 import java.util.Scanner;
 
