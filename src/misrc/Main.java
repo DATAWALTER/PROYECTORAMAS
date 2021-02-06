@@ -59,11 +59,13 @@ public class Main {
     public static void opcion1() {
         System.out.print("\nOPCION 1");
         System.out.print("\n========");
+        System.out.println("Operación aritmética suma");
     }
 
     public static void opcion2() {
         System.out.print("\nOPCION 2");
         System.out.print("\n========");
+        System.out.println("Operación aritmética resta");
     }
 
     public static void opcion3() {
